@@ -2,6 +2,8 @@
 ## Introduction
 An image editing program that can pixelate images that are given.
 
+My goals for this project were to learn how to make a gui and edit images.
+
 ## Demo
 ![pixel_gif](https://user-images.githubusercontent.com/48966108/61008158-cfbac580-a33c-11e9-84fc-f14927eddb42.gif)
 
